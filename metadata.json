@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Precision Laptops & Notebooks",
+  "description": "High-performance precision laptops for creators, engineers, and power users. Explore architectural features, customize specifications, and buy online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
